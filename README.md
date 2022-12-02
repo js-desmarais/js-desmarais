@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @js-desmarais
 - 👀 I’m interested in aviation, music, coding... also learning and teaching!
-- 🌱 I’m currently learning JavaScript. Also enrolled in Quantic EMBA and that's going well!
-- 💞️ I’m looking to collaborate on nothing quite yet! Still pretty new at this.
+- 🌱 I’m currently learning NodeJS and have recently fininshed HTML, JS and CSS courses!
+- 💞️ I’m looking to get inspiration and perhaps collaborate on various projects in the near future.
 - 📖 My favourite book is "The 7 Habits of Highly Effective People" by Stephen Covey (April 2020 edition).
 - 🏃‍♂️🚲🏊‍♀️⚽ My favourite activities are running, biking, swimming, hicking, and playing soccer.
 - 🥇 I'm a driven type of guy, team player, and people-oriented leader.
